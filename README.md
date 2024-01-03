@@ -1,8 +1,4 @@
-# Project Name
-
-## Overview
-
-Briefly describe your project. Provide an overview of what it does and its main features.
+# Necleo
 
 ## Installation
 
